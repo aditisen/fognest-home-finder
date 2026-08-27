@@ -1,0 +1,32 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+
+# BM25 index is a build artifact regenerated on every ingest run
+data/bm25_model.json
+
+# Logs
+logs/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/

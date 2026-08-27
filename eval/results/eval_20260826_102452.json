@@ -1,0 +1,500 @@
+{
+  "run_id": "20260826_102452",
+  "results": [
+    {
+      "id": "Q01",
+      "question": "I'm looking for a 3-bedroom Victorian home in Noe Valley. What's available?",
+      "tags": [
+        "neighborhood",
+        "architecture_style",
+        "bedrooms"
+      ],
+      "answer": "### Available 3-Bedroom Victorian Homes in Noe Valley\n\nHere are some Victorian homes in Noe Valley that match your criteria:\n\n1. **3970 Noe St**  \n   - **Price:** $2,050,000  \n   - **Size:** 3,700 sqft  \n   - **Details:** This meticulously restored Victorian home offers a blend of period character and modern updates. Features include a gourmet kitchen, shared roof deck, and a luminous primary bedroom with ensuite bath. [MLS: SF281614]\n\n2. **3163 Elizabeth St #23B**  \n   - **Price:** $2,975,000  \n   - **Size:** 2,750 sqft  \n   - **Details:** A stunning Victorian home with city views, featuring a gourmet kitchen, sunny deck, and original architectural details. The primary suite includes a spa bath. [MLS: SF624282]\n\n3. **1674 Clipper St**  \n   - **Price:** $2,200,000  \n   - **Size:** 2,050 sqft  \n   - **Details:** This Victorian townhouse offers the space of a home with condo living ease. It includes a chef's kitchen, private rooftop deck, and a primary suite with a private terrace. [MLS: SF148632]\n\n4. **2747 Church St**  \n   - **Price:** $1,700,000  \n   - **Size:** 1,700 sqft  \n   - **Details:** A light-filled Victorian townhouse with a designer kitchen, private rooftop deck, and garden views. The primary suite features dual walk-in closets. [MLS: SF984288]\n\n5. **3223 Sanchez St**  \n   - **Price:** $2,325,000  \n   - **Size:** 2,350 sqft  \n   - **Details:** This sun-drenched Victorian townhouse includes a designer kitchen, private rooftop deck, and park views. The primary suite has a spa bath and walk-in closet. [MLS: SF326774]\n\nThese listings offer a variety of features and price points, all within the charming Noe Valley neighborhood.",
+      "cited_ids": [
+        "SF281614",
+        "SF624282",
+        "SF148632",
+        "SF984288",
+        "SF326774"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 34.86,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q02",
+      "question": "Show me condos in SOMA with city views under $1.2 million.",
+      "tags": [
+        "neighborhood",
+        "property_type",
+        "views",
+        "price"
+      ],
+      "answer": "Here are some great condo options in the SOMA neighborhood of San Francisco, all offering city views and priced under $1.2 million:\n\n1. **1123 Brannan St**  \n   - **Price:** $650,000  \n   - **Size:** 2.0BD/3.0BA, 1,150 sqft  \n   - **Type:** Modern Condo  \n   - **Highlights:** Features a gourmet kitchen with a waterfall island, wine refrigerator, and floor-to-ceiling windows. Includes an EV-ready garage and a shared roof deck with panoramic views. [MLS: SF499609]\n\n2. **3206 2nd St #7A**  \n   - **Price:** $975,000  \n   - **Size:** 1.0BD/2.0BA, 1,650 sqft  \n   - **Type:** Contemporary Condo  \n   - **Highlights:** Offers a sleek design with Bosch appliances, skylights, and a shared roof deck. Building amenities include a concierge and fitness center. [MLS: SF645575]\n\n3. **642 3rd St**  \n   - **Price:** $575,000  \n   - **Size:** 1.0BD/2.0BA, 1,400 sqft  \n   - **Type:** Mid-Century Modern Condo  \n   - **Highlights:** Features a gourmet kitchen, open-concept living, and a landscaped patio. Deeded parking included. [MLS: SF456799]\n\n4. **1661 4th St**  \n   - **Price:** $1,150,000  \n   - **Size:** 2.0BD/2.5BA, 1,350 sqft  \n   - **Type:** Victorian Condo  \n   - **Highlights:** Includes a fully remodeled kitchen, heated floors in the ensuite bath, and a sunny deck. [MLS: SF145045]\n\n5. **2812 2nd St #10A**  \n   - **Price:** $925,000  \n   - **Size:** 2.0BD/2.0BA, 850 sqft  \n   - **Type:** Art Deco Condo  \n   - **Highlights:** Offers a gourmet kitchen, landscaped patio, and deeded parking. [MLS: SF275250]",
+      "cited_ids": [
+        "SF499609",
+        "SF645575",
+        "SF456799",
+        "SF145045",
+        "SF275250"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 31.19,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q03",
+      "question": "Are there any townhouses in Pacific Heights with at least 2 bathrooms?",
+      "tags": [
+        "neighborhood",
+        "property_type",
+        "bathrooms"
+      ],
+      "answer": "### Summary\nI found several townhouses in Pacific Heights with at least 2 bathrooms. Here are some options that might interest you:\n\n1. **2154 Broadway, San Francisco, CA**  \n   - **Price:** $2,850,000  \n   - **Size:** 2.0BD/3.0BA, 1,150 sqft  \n   - **Type:** Modern Townhouse  \n   - **Highlights:** Features a chef's kitchen, private rooftop deck, and breathtaking Golden Gate views. [MLS: SF555219]\n\n2. **2322 Divisadero St, San Francisco, CA**  \n   - **Price:** $2,975,000  \n   - **Size:** 2.0BD/3.5BA, 1,700 sqft  \n   - **Type:** Modern Townhouse  \n   - **Highlights:** Includes a designer kitchen, private rooftop deck, and bay views. [MLS: SF956331]\n\n3. **992 Washington St, San Francisco, CA**  \n   - **Price:** $2,150,000  \n   - **Size:** 2.0BD/3.0BA, 1,650 sqft  \n   - **Type:** Victorian Townhouse  \n   - **Highlights:** Offers a wrap-around deck and bay views. [MLS: SF933312]\n\n4. **3848 Vallejo St #10A, San Francisco, CA**  \n   - **Price:** $2,850,000  \n   - **Size:** 4.0BD/5.0BA, 1,700 sqft  \n   - **Type:** Craftsman Townhouse  \n   - **Highlights:** Features a designer kitchen and city views. [MLS: SF318544]\n\n5. **2714 Lyon St, San Francisco, CA**  \n   - **Price:** $2,900,000  \n   - **Size:** 4.0BD/4.5BA, 2,200 sqft  \n   - **Type:** Victorian Townhouse  \n   - **Highlights:** Includes a private rear garden and city views. [MLS: SF792244]\n\nThese listings offer a variety of styles and features, all located in the desirable Pacific Heights neighborhood.",
+      "cited_ids": [
+        "SF555219",
+        "SF956331",
+        "SF933312",
+        "SF318544",
+        "SF792244"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 22.62,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q04",
+      "question": "Find me a single family home in Bernal Heights with a backyard.",
+      "tags": [
+        "neighborhood",
+        "property_type",
+        "amenities"
+      ],
+      "answer": "### Summary\nHere are some single-family homes in Bernal Heights, San Francisco, that feature a backyard. These listings offer a variety of styles and amenities to suit different preferences.\n\n### Recommended Listings\n\n1. **1877 Precita Ave**  \n   - **Price:** $1,700,000  \n   - **Size:** 4.0BD/5.0BA | 2,250 sqft  \n   - **Type:** Victorian  \n   - **Highlights:** Updated kitchen, expansive yard, wood-burning fireplace, city views.  \n   - **MLS:** [SF377247]\n\n2. **3379 Andover St**  \n   - **Price:** $1,825,000  \n   - **Size:** 2.0BD/3.0BA | 2,600 sqft  \n   - **Type:** Modern Farmhouse  \n   - **Highlights:** Sun-drenched home, expansive yard, private deck, EV-ready garage.  \n   - **MLS:** [SF667759]\n\n3. **1473 Mission St #15C**  \n   - **Price:** $2,025,000  \n   - **Size:** 3.0BD/3.0BA | 3,750 sqft  \n   - **Type:** Ranch  \n   - **Highlights:** Chef's kitchen, private rear garden, wood-burning fireplace.  \n   - **MLS:** [SF763406]\n\n4. **3961 Precita Ave**  \n   - **Price:** $1,175,000  \n   - **Size:** 3.0BD/3.5BA | 1,850 sqft  \n   - **Type:** Ranch  \n   - **Highlights:** Bay views, expansive yard, preserved architectural details.  \n   - **MLS:** [SF756684]\n\n5. **1366 Precita Ave #8A**  \n   - **Price:** $2,025,000  \n   - **Size:** 3.0BD/4.0BA | 2,850 sqft  \n   - **Type:** Modern Farmhouse  \n   - **Highlights:** Gourmet kitchen, expansive yard, spa bath.  \n   - **MLS:** [SF203386]",
+      "cited_ids": [
+        "SF377247",
+        "SF667759",
+        "SF763406",
+        "SF756684",
+        "SF203386"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 17.95,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q05",
+      "question": "What listings are available in the Mission District under $1.5 million?",
+      "tags": [
+        "neighborhood",
+        "price"
+      ],
+      "answer": "Here are some listings available in the Mission District of San Francisco under $1.5 million:\n\n1. **2483 24th St, San Francisco, CA**  \n   - **Price:** $925,000  \n   - **Details:** 2BD/2.5BA, 1,650 sqft Condo (Contemporary)  \n   - **Highlights:** Light-filled residence with updated kitchen, open-concept living/dining, floor-to-ceiling windows, and city views. Includes a rooftop terrace and 1-car garage. [MLS: SF571233]\n\n2. **763 Cesar Chavez St, San Francisco, CA**  \n   - **Price:** $1,025,000  \n   - **Details:** 2BD/3.0BA, 1,250 sqft Townhouse (Modern)  \n   - **Highlights:** End-unit with chef's kitchen, private rear garden, EV-ready garage, and smart home features. Offers park views and proximity to local amenities. [MLS: SF772865]\n\n3. **910 Mission St #17, San Francisco, CA**  \n   - **Price:** $1,250,000  \n   - **Details:** 3BD/3.5BA, 1,650 sqft Condo (High-Rise)  \n   - **Highlights:** High-rise condo with updated kitchen, open-concept living, and garden views. Includes a rooftop terrace and 2-car garage. [MLS: SF495450]\n\n4. **1792 Mission St, San Francisco, CA**  \n   - **Price:** $750,000  \n   - **Details:** 2BD/3.0BA, 500 sqft Condo (Mid-Century Modern)  \n   - **Highlights:** Sun-drenched condo with updated kitchen, wrap-around deck, and proximity to local dining and nightlife. [MLS: SF667748]\n\n5. **3191 Army St, San Francisco, CA**  \n   - **Price:** $1,050,000  \n   - **Details:** 3BD/4.0BA, 1,700 sqft Single Family (Ranch)  \n   - **Highlights:** Ranch home with designer kitchen, hardwood floors, and park views. Features a shared roof deck and EV-ready garage. [MLS: SF110073]",
+      "cited_ids": [
+        "SF571233",
+        "SF772865",
+        "SF495450",
+        "SF667748",
+        "SF110073"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 19.98,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q06",
+      "question": "Show me homes under $800,000 in San Francisco. I'm a first-time buyer.",
+      "tags": [
+        "price",
+        "first_time_buyer"
+      ],
+      "answer": "### Summary\n\nHere are some great options for homes under $800,000 in San Francisco, particularly in the Financial District. These listings offer a variety of styles and amenities, perfect for a first-time buyer.\n\n### Recommended Listings\n\n1. **2958 Sansome St #3A**  \n   - **Price:** $850,000  \n   - **Type:** Condo (Loft)  \n   - **Size:** 850 sqft  \n   - **Features:** Designer kitchen, open-concept living/dining, floor-to-ceiling windows, bay views, private rear garden, 1-car garage.  \n   - **MLS:** [SF441363]\n\n2. **2371 Montgomery St**  \n   - **Price:** $725,000  \n   - **Type:** Condo (Mid-Century Modern)  \n   - **Size:** 900 sqft  \n   - **Features:** Updated kitchen, open-concept living/dining, bay views, 1-car garage, expansive yard.  \n   - **MLS:** [SF816084]\n\n3. **1594 Spear St**  \n   - **Price:** $700,000  \n   - **Type:** Condo (Art Deco)  \n   - **Size:** 850 sqft  \n   - **Features:** Designer kitchen, open-concept living/dining, bay views, shared roof deck, 1-car garage.  \n   - **MLS:** [SF479230]\n\n4. **778 Montgomery St**  \n   - **Price:** $575,000  \n   - **Type:** Condo (Modern)  \n   - **Size:** 1,650 sqft  \n   - **Features:** Designer kitchen, custom built-ins, bay views, rooftop terrace, 1-car parking.  \n   - **MLS:** [SF351165]\n\nThese listings provide a range of options in terms of size, style, and amenities, all within your budget. Consider visiting these properties to find the perfect fit for your needs.",
+      "cited_ids": [
+        "SF441363",
+        "SF816084",
+        "SF479230",
+        "SF351165"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 4,
+      "latency_s": 28.74,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q07",
+      "question": "I have a budget of $3 million and want a luxury home in Pacific Heights or Russian Hill.",
+      "tags": [
+        "price",
+        "neighborhood",
+        "luxury"
+      ],
+      "answer": "### Summary\nBased on your budget of $3 million, I found several luxury homes in the Pacific Heights neighborhood of San Francisco. Unfortunately, there are no listings available in Russian Hill within the provided context. Below are some recommended listings in Pacific Heights that fit your criteria:\n\n### Recommended Listings\n\n1. **2154 Broadway, San Francisco, CA**  \n   - **Price:** $2,850,000  \n   - **Type:** Modern Townhouse  \n   - **Size:** 1,150 sqft | 2BD/3BA  \n   - **Highlights:** Features a chef's kitchen with Carrara marble countertops, private rooftop deck, and tandem garage. Enjoy Golden Gate views from the living areas and primary suite. [MLS: SF555219]\n\n2. **1541 Broadway, San Francisco, CA**  \n   - **Price:** $2,700,000  \n   - **Type:** Contemporary Single Family  \n   - **Size:** 2,950 sqft | 5BD/6BA  \n   - **Highlights:** Meticulously restored with a rooftop terrace, original hardwood floors, and breathtaking Golden Gate views. [MLS: SF664326]\n\n3. **2322 Divisadero St, San Francisco, CA**  \n   - **Price:** $2,975,000  \n   - **Type:** Modern Townhouse  \n   - **Size:** 1,700 sqft | 2BD/3.5BA  \n   - **Highlights:** Designer kitchen, private rooftop deck, and bay views from the living areas and primary suite. [MLS: SF956331]\n\n4. **3848 Vallejo St #10A, San Francisco, CA**  \n   - **Price:** $2,850,000  \n   - **Type:** Craftsman Townhouse  \n   - **Size:** 1,700 sqft | 4BD/5BA  \n   - **Highlights:** End-unit with smart home features, tandem garage, and city views. [MLS: SF318544]\n\n5. **1924 Broadway #14B, San Francisco, CA**  \n   - **Price:** $2,875,000  \n   - **Type:** Tudor Single Family  \n   - **Size:** 2,100 sqft | 4BD/4BA  \n   - **Highlights:** Chef's kitchen, rooftop terrace, and bay views. [MLS: SF512046]\n\nThese listings offer a variety of styles and features, all within the prestigious Pacific Heights neighborhood.",
+      "cited_ids": [
+        "SF555219",
+        "SF664326",
+        "SF956331",
+        "SF318544",
+        "SF512046"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 15.63,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q08",
+      "question": "What 2-bedroom condos are available between $900k and $1.4 million?",
+      "tags": [
+        "price",
+        "bedrooms",
+        "property_type"
+      ],
+      "answer": "Here are some 2-bedroom condos available in San Francisco within your budget range of $900,000 to $1.4 million:\n\n1. **1805 Kearny St, San Francisco, CA**  \n   - **Price:** $1,000,000  \n   - **Size:** 1,600 sqft  \n   - **Type:** Modern Condo  \n   - **Neighborhood:** North Beach  \n   - **Highlights:** Naturally lit with city views, features a bright eat-in kitchen, custom built-ins, and wide-plank white oak floors. Includes a rooftop lounge and EV-ready garage. [MLS: SF474799]\n\n2. **1194 Market St #11C, San Francisco, CA**  \n   - **Price:** $1,200,000  \n   - **Size:** 600 sqft  \n   - **Type:** Contemporary Condo  \n   - **Neighborhood:** Financial District  \n   - **Highlights:** Offers bay views, a fully remodeled kitchen, and amenities like a fitness center and concierge. [MLS: SF431289]\n\n3. **3621 Market St #6C, San Francisco, CA**  \n   - **Price:** $1,025,000  \n   - **Size:** 1,050 sqft  \n   - **Type:** High-Rise Condo  \n   - **Neighborhood:** Financial District  \n   - **Highlights:** Features bay views, updated kitchen, and amenities such as a rooftop terrace and club room. [MLS: SF444801]\n\n4. **2415 Cole St #19B, San Francisco, CA**  \n   - **Price:** $1,025,000  \n   - **Size:** 1,400 sqft  \n   - **Type:** Contemporary Condo  \n   - **Neighborhood:** Haight-Ashbury  \n   - **Highlights:** Includes a chef's kitchen, custom built-ins, and amenities like bike storage. [MLS: SF830518]\n\n5. **3709 20th St, San Francisco, CA**  \n   - **Price:** $1,225,000  \n   - **Size:** 1,500 sqft  \n   - **Type:** Modern Condo  \n   - **Neighborhood:** Mission District  \n   - **Highlights:** Features a designer kitchen, custom built-ins, and amenities such as a fitness center and concierge. [MLS: SF384696]",
+      "cited_ids": [
+        "SF474799",
+        "SF431289",
+        "SF444801",
+        "SF830518",
+        "SF384696"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 16.49,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q09",
+      "question": "I want a home with bay views and a parking space.",
+      "tags": [
+        "views",
+        "amenities"
+      ],
+      "answer": "### Summary\nHere are some stunning townhouses in San Francisco that offer breathtaking bay views and include parking spaces. These homes provide a blend of modern amenities and convenient living.\n\n### Recommended Listings\n\n1. **463 Montgomery St #9C, Financial District**  \n   - **Price:** $1,450,000  \n   - **Size:** 4.0BD/4.5BA, 950 sqft  \n   - **Features:** Contemporary townhouse with a chef's kitchen, private rooftop deck, and deeded parking. The primary suite has its own floor with an ensuite bath and private terrace. [MLS: SF616792]\n\n2. **2322 Divisadero St, Pacific Heights**  \n   - **Price:** $2,975,000  \n   - **Size:** 2.0BD/3.5BA, 1,700 sqft  \n   - **Features:** Modern townhouse with designer kitchen, private rooftop deck, and 1-car garage. The primary suite has an ensuite bath and private terrace. [MLS: SF956331]\n\n3. **3728 4th St, SOMA**  \n   - **Price:** $1,625,000  \n   - **Size:** 4.0BD/5.0BA, 1,200 sqft  \n   - **Features:** Modern townhouse with an eat-in kitchen, private rooftop deck, and deeded parking. The primary suite has an ensuite bath and private terrace. [MLS: SF212499]\n\n4. **3184 Washington St, Pacific Heights**  \n   - **Price:** $1,425,000  \n   - **Size:** 4.0BD/5.5BA, 900 sqft  \n   - **Features:** Craftsman townhouse with updated kitchen, private rooftop deck, and deeded parking. The primary suite includes a soaking tub and dual walk-in closets. [MLS: SF171325]\n\n5. **3087 Montgomery St, Financial District**  \n   - **Price:** $1,475,000  \n   - **Size:** 3.0BD/3.5BA, 950 sqft  \n   - **Features:** Edwardian townhouse with updated kitchen, private rooftop deck, and 1-car parking. The primary suite has an ensuite bath and private terrace. [MLS: SF201426]",
+      "cited_ids": [
+        "SF616792",
+        "SF956331",
+        "SF212499",
+        "SF171325",
+        "SF201426"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 16.99,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q10",
+      "question": "Find listings with ocean views in the Outer Sunset or Richmond district.",
+      "tags": [
+        "views",
+        "neighborhood"
+      ],
+      "answer": "### Summary\nUnfortunately, I couldn't find any listings with ocean views in the Outer Sunset or Richmond district based on the current data. However, there are several beautiful homes in the Outer Sunset with other types of views and amenities.\n\n### Suggested Listings\n\n1. **3106 39th Ave, San Francisco, CA**  \n   - **Price:** $1,200,000  \n   - **Size:** 5.0BD/5.0BA, 3,750 sqft  \n   - **Type:** Single Family (Ranch)  \n   - **Neighborhood:** Outer Sunset  \n   - **Views:** Park View  \n   - **Highlights:** Fully remodeled kitchen, shared roof deck with panoramic views, spacious primary suite with ensuite bath, and a gas fireplace.  \n   - **MLS:** [SF577209]\n\n2. **1717 39th Ave, San Francisco, CA**  \n   - **Price:** $1,625,000  \n   - **Size:** 2.0BD/2.5BA, 2,500 sqft  \n   - **Type:** Townhouse (Contemporary)  \n   - **Neighborhood:** Outer Sunset  \n   - **Views:** City View  \n   - **Highlights:** Private rooftop deck, remodeled kitchen, and a primary suite with soaking tub and dual walk-in closets.  \n   - **MLS:** [SF276578]\n\n3. **227 Judah St, San Francisco, CA**  \n   - **Price:** $1,650,000  \n   - **Size:** 3.0BD/3.5BA, 1,600 sqft  \n   - **Type:** Single Family (Victorian)  \n   - **Neighborhood:** Outer Sunset  \n   - **Views:** Garden View  \n   - **Highlights:** Chef's kitchen, wrap-around deck, and a gas fireplace.  \n   - **MLS:** [SF236749]\n\n4. **1425 45th Ave, San Francisco, CA**  \n   - **Price:** $1,425,000  \n   - **Size:** 4.0BD/5.0BA, 1,800 sqft  \n   - **Type:** Single Family (Victorian)  \n   - **Neighborhood:** Outer Sunset  \n   - **Views:** Garden View  \n   - **Highlights:** Gourmet kitchen, rooftop terrace, and EV-ready garage.  \n   - **MLS:** [SF285530]\n\nConsider broadening your search criteria to include homes with other types of views or in nearby neighborhoods to increase your options.",
+      "cited_ids": [
+        "SF577209",
+        "SF276578",
+        "SF236749",
+        "SF285530"
+      ],
+      "n_docs_retrieved": 5,
+      "n_citations": 4,
+      "latency_s": 16.35,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q11",
+      "question": "Are there any homes with a rooftop deck and city views in Hayes Valley?",
+      "tags": [
+        "neighborhood",
+        "amenities",
+        "views"
+      ],
+      "answer": "### Summary\nI found several listings in Hayes Valley that feature a rooftop deck with city views. Here are the details:\n\n1. **656 Hayes St, San Francisco, CA**\n   - **Price:** $725,000\n   - **Size:** 1,200 sqft\n   - **Type:** Condo (Edwardian)\n   - **Bedrooms/Bathrooms:** 3BD/4.0BA\n   - **Highlights:** This sophisticated condo offers a shared roof deck with panoramic views, bright eat-in kitchen, and open-concept living/dining area. [MLS: SF291093]\n\n2. **300 Gough St, San Francisco, CA**\n   - **Price:** $1,925,000\n   - **Size:** 2,950 sqft\n   - **Type:** Multi Family (Spanish Colonial)\n   - **Bedrooms/Bathrooms:** 4BD/4.5BA\n   - **Highlights:** This two-unit building includes a shared roof deck with panoramic views, period details, and modern kitchens. [MLS: SF987216]\n\n3. **487 Grove St #19C, San Francisco, CA**\n   - **Price:** $725,000\n   - **Size:** 500 sqft\n   - **Type:** Condo (Edwardian)\n   - **Bedrooms/Bathrooms:** 2BD/3.0BA\n   - **Highlights:** Features a rooftop terrace, designer kitchen, and custom built-ins. [MLS: SF546235]\n\nThese properties offer the desired rooftop deck with city views, providing a great opportunity to enjoy the vibrant Hayes Valley neighborhood.",
+      "cited_ids": [
+        "SF291093",
+        "SF987216",
+        "SF546235"
+      ],
+      "n_docs_retrieved": 7,
+      "n_citations": 3,
+      "latency_s": 16.9,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q12",
+      "question": "I love Craftsman-style homes. What's available in San Francisco?",
+      "tags": [
+        "architecture_style"
+      ],
+      "answer": "### Summary\nSan Francisco offers a variety of stunning Craftsman-style homes across different neighborhoods. Here are some notable listings:\n\n1. **1189 Vienna St, San Francisco, CA**  \n   - **Price:** $1,075,000  \n   - **Size:** 3,000 sqft | 3BD/4BA  \n   - **Neighborhood:** Excelsior  \n   - **Highlights:** Light-filled home with original architectural details, a bright eat-in kitchen, and a landscaped patio. [MLS: SF776975]\n\n2. **979 Excelsior Ave, San Francisco, CA**  \n   - **Price:** $2,150,000  \n   - **Size:** 2,600 sqft | 3BD/3.5BA  \n   - **Neighborhood:** Excelsior  \n   - **Highlights:** Chef's kitchen with Carrara marble countertops, wrap-around deck, and preserved original details. [MLS: SF849615]\n\n3. **3327 Cabrillo St #16, San Francisco, CA**  \n   - **Price:** $1,150,000  \n   - **Size:** 1,600 sqft | 3BD/3.5BA  \n   - **Neighborhood:** Outer Richmond  \n   - **Highlights:** Updated kitchen, shared roof deck with panoramic views, and preserved original details. [MLS: SF621448]\n\n4. **2876 Persia Ave, San Francisco, CA**  \n   - **Price:** $1,100,000  \n   - **Size:** 2,950 sqft | 3BD/3BA  \n   - **Neighborhood:** Excelsior  \n   - **Highlights:** City views, bright eat-in kitchen, and shared roof deck. [MLS: SF413614]\n\n5. **2727 Armstrong Ave, San Francisco, CA**  \n   - **Price:** $975,000  \n   - **Size:** 1,850 sqft | 4BD/5BA  \n   - **Neighborhood:** Bayview  \n   - **Highlights:** Bay views, updated kitchen, and wrap-around deck. [MLS: SF431502]\n\nThese homes offer a blend of modern amenities and classic Craftsman charm, each with unique features and views.",
+      "cited_ids": [
+        "SF776975",
+        "SF849615",
+        "SF621448",
+        "SF413614",
+        "SF431502"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 25.53,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q13",
+      "question": "Show me modern contemporary homes with open floor plans.",
+      "tags": [
+        "architecture_style",
+        "amenities"
+      ],
+      "answer": "Here are some modern contemporary homes in San Francisco with open floor plans:\n\n1. **2312 Cesar Chavez St**  \n   - **Price:** $925,000  \n   - **Size:** 3.0BD/3.5BA, 2,550 sqft  \n   - **Neighborhood:** Bayview  \n   - **Highlights:** This townhouse features a chef's kitchen with Carrara marble countertops and stainless appliances, an open-plan great room, and a shared roof deck with panoramic bay views. [MLS: SF276037]\n\n2. **2141 Evans Ave**  \n   - **Price:** $1,225,000  \n   - **Size:** 4.0BD/4.5BA, 2,000 sqft  \n   - **Neighborhood:** Bayview  \n   - **Highlights:** This single-family home offers a designer kitchen with integrated appliances and a pantry leading to an expansive yard, ideal for entertaining. [MLS: SF289974]\n\n3. **3173 Excelsior Ave**  \n   - **Price:** $775,000  \n   - **Size:** 3.0BD/4.0BA, 2,100 sqft  \n   - **Neighborhood:** Excelsior  \n   - **Highlights:** This townhouse includes a designer kitchen with integrated appliances, an open-plan great room, and a wrap-around deck with city views. [MLS: SF637499]\n\n4. **2219 Balboa St**  \n   - **Price:** $1,200,000  \n   - **Size:** 3.0BD/3.5BA, 2,600 sqft  \n   - **Neighborhood:** Outer Richmond  \n   - **Highlights:** Features a chef's kitchen with Carrara marble countertops, an open-plan great room, and a sunny deck with park views. [MLS: SF299108]\n\n5. **1860 Folsom St #1C**  \n   - **Price:** $1,400,000  \n   - **Size:** 2.0BD/2.5BA, 1,400 sqft  \n   - **Neighborhood:** Bernal Heights  \n   - **Highlights:** This townhouse offers a designer kitchen with integrated appliances, an open-plan great room, and a shared roof deck with city views. [MLS: SF537712]",
+      "cited_ids": [
+        "SF276037",
+        "SF289974",
+        "SF637499",
+        "SF299108",
+        "SF537712"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 15.92,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q14",
+      "question": "Are there any Edwardian homes available in the Marina or Cow Hollow area?",
+      "tags": [
+        "architecture_style",
+        "neighborhood"
+      ],
+      "answer": "### Summary\nI found several Edwardian homes available in the Marina neighborhood of San Francisco. Here are some notable listings:\n\n### Recommended Listings\n\n1. **2386 Marina Blvd**  \n   - **Price:** $1,975,000  \n   - **Size:** 4.0BD/4.0BA, 1,700 sqft  \n   - **Highlights:** Meticulously restored Edwardian with a gourmet kitchen, wrap-around deck, and bay views. Features include original oak floors, EV-ready garage, and in-unit washer/dryer. [MLS: SF144146]\n\n2. **143 Marina Blvd**  \n   - **Price:** $2,125,000  \n   - **Size:** 3.0BD/4.0BA, 1,450 sqft  \n   - **Highlights:** Restored Edwardian with a gourmet kitchen leading to an expansive yard. Includes original oak floors, EV-ready garage, and bay views. [MLS: SF748509]\n\n3. **3788 Chestnut St #16A**  \n   - **Price:** $1,950,000  \n   - **Size:** 3.0BD/4.0BA, 1,450 sqft  \n   - **Highlights:** Sun-soaked condo with a bright eat-in kitchen, custom built-ins, and heated tile floors. Offers bay views and amenities like a fitness center and concierge. [MLS: SF192504]\n\n4. **3950 Marina Blvd**  \n   - **Price:** $1,975,000  \n   - **Size:** 2.0BD/2.0BA, 1,750 sqft  \n   - **Highlights:** Modern condo with designer kitchen, Juliet balcony, and golden gate views. Includes gym, rooftop, and in-unit washer/dryer. [MLS: SF417608]\n\n5. **1996 Chestnut St #25B**  \n   - **Price:** $725,000  \n   - **Size:** 1.0BD/1.0BA, 500 sqft  \n   - **Highlights:** Naturally lit condo with a chef's kitchen, custom built-ins, and bay views. Includes rooftop lounge and 1-car parking. [MLS: SF972859]\n\nThese listings offer a range of sizes and prices, all featuring the classic Edwardian charm with modern amenities.",
+      "cited_ids": [
+        "SF144146",
+        "SF748509",
+        "SF192504",
+        "SF417608",
+        "SF972859"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 20.69,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q15",
+      "question": "I have two school-age kids. Show me family-friendly homes near good elementary schools.",
+      "tags": [
+        "schools",
+        "family"
+      ],
+      "answer": "### Family-Friendly Homes Near Good Elementary Schools in San Francisco\n\nHere are some family-friendly homes located near top-rated elementary schools in San Francisco:\n\n1. **3517 15th Ave #20, San Francisco, CA**  \n   - **Price:** $1,725,000  \n   - **Size:** 5.0BD/5.0BA, 2,650 sqft  \n   - **Type:** Single Family (Edwardian)  \n   - **Neighborhood:** West Portal  \n   - **Schools:** West Portal Elementary, Hoover Middle School, George Washington High School  \n   - **Highlights:** Sun-drenched home with a bright eat-in kitchen, private rear garden, and a cozy wood-burning fireplace. Situated on a premium block with a small-town feel and excellent transit.  \n   - [MLS: SF662794]\n\n2. **1567 Lenox Way #7B, San Francisco, CA**  \n   - **Price:** $2,550,000  \n   - **Size:** 5.0BD/5.0BA, 3,650 sqft  \n   - **Type:** Single Family (Mid-Century Modern)  \n   - **Neighborhood:** West Portal  \n   - **Schools:** Miraloma Elementary, Hoover Middle School, Abraham Lincoln High School  \n   - **Highlights:** Light-filled home with an updated kitchen, private rear garden, and a cozy wood-burning fireplace. Located on a sunny corner lot with a charming small-town feel.  \n   - [MLS: SF254684]\n\n3. **1954 Vicente St, San Francisco, CA**  \n   - **Price:** $1,775,000  \n   - **Size:** 3.0BD/3.0BA, 1,800 sqft  \n   - **Type:** Single Family (Ranch)  \n   - **Neighborhood:** West Portal  \n   - **Schools:** West Portal Elementary, Hoover Middle School, Abraham Lincoln High School  \n   - **Highlights:** Sun-soaked home with an expansive yard and breathtaking park views. Features a dedicated laundry room and a statement fireplace.  \n   - [MLS: SF544420]\n\n4. **3933 Ulloa St #6C, San Francisco, CA**  \n   - **Price:** $1,800,000  \n   - **Size:** 3.0BD/3.5BA, 1,850 sqft  \n   - **Type:** Single Family (Tudor)  \n   - **Neighborhood:** West Portal  \n   - **Schools:** West Portal Elementary, Hoover Middle School, Abraham Lincoln High School  \n   - **Highlights:** Bright and airy home with a charming Juliet balcony and a gas fireplace. Located on a wide flat lot with excellent transit options.  \n   - [MLS: SF398678]\n\nThese homes are located in neighborhoods with a small-town feel and are close to top-rated schools, making them ideal for families with school-age children.",
+      "cited_ids": [
+        "SF662794",
+        "SF254684",
+        "SF544420",
+        "SF398678"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 4,
+      "latency_s": 23.46,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q16",
+      "question": "What homes are in the Noe Valley area near good middle schools?",
+      "tags": [
+        "schools",
+        "neighborhood"
+      ],
+      "answer": "### Homes in Noe Valley Near Good Middle Schools\n\nHere are some listings in the Noe Valley area, all of which are near James Lick Middle School, a well-regarded middle school:\n\n1. **2838 Sanchez St #28C**  \n   - **Price:** $2,600,000  \n   - **Size:** 6.0BD/7.0BA, 2,900 sqft  \n   - **Type:** Multi Family (Mid-Century Modern)  \n   - **Highlights:** Fully updated duplex with modern kitchens, hardwood floors, and separate entrances. Offers city views and a strong cap rate potential. [MLS: SF331259]\n\n2. **2696 Vicksburg St #11B**  \n   - **Price:** $950,000  \n   - **Size:** 2.0BD/3.0BA, 1,600 sqft  \n   - **Type:** Condo (High-Rise)  \n   - **Highlights:** Features a bright eat-in kitchen, open-concept living/dining, and a Juliet balcony. Located in the heart of Noe Valley. [MLS: SF145767]\n\n3. **3470 24th St**  \n   - **Price:** $2,125,000  \n   - **Size:** 4.0BD/5.0BA, 2,250 sqft  \n   - **Type:** Single Family (Mid-Century Modern)  \n   - **Highlights:** Includes a chef's kitchen, landscaped patio, and a private deck. Situated on a sunny corner lot. [MLS: SF193055]\n\n4. **2798 Sanchez St**  \n   - **Price:** $1,600,000  \n   - **Size:** 5.0BD/5.5BA, 1,500 sqft  \n   - **Type:** Single Family (Mid-Century Modern)  \n   - **Highlights:** Features a designer kitchen, landscaped patio, and a gas fireplace. Located on a sunny corner lot. [MLS: SF197157]\n\n5. **302 Noe St**  \n   - **Price:** $1,650,000  \n   - **Size:** 3.0BD/3.5BA, 3,150 sqft  \n   - **Type:** Single Family (Ranch)  \n   - **Highlights:** Offers an updated kitchen, expansive yard, and a cozy wood-burning fireplace. Situated on a premium block. [MLS: SF429948]\n\nThese homes are all located in the desirable Noe Valley neighborhood, providing access to excellent schools and a vibrant community atmosphere.",
+      "cited_ids": [
+        "SF331259",
+        "SF145767",
+        "SF193055",
+        "SF197157",
+        "SF429948"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 18.6,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q17",
+      "question": "I need at least 2,500 square feet. Show me spacious homes in San Francisco.",
+      "tags": [
+        "sqft"
+      ],
+      "answer": "Here are some spacious homes in San Francisco that meet your requirement of at least 2,500 square feet:\n\n1. **3224 9th Ave, San Francisco, CA**  \n   - **Price:** $1,725,000  \n   - **Size:** 3,200 sqft  \n   - **Type:** Single Family (Spanish Colonial)  \n   - **Neighborhood:** Inner Sunset  \n   - **Highlights:** This sun-soaked home features a bright eat-in kitchen, gleaming hardwood floors, a sunny deck, and a spacious primary suite with an ensuite bath. Additional features include an EV-ready garage and a formal dining room. [MLS: SF454140]\n\n2. **1356 Vienna St #1B, San Francisco, CA**  \n   - **Price:** $2,550,000  \n   - **Size:** 3,800 sqft  \n   - **Type:** Single Family (Spanish Colonial)  \n   - **Neighborhood:** Excelsior  \n   - **Highlights:** This bright and airy home offers a designer kitchen, a sunny deck, and a spacious primary suite with a walk-in closet. It also includes a 2-car garage and a formal dining room. [MLS: SF832203]\n\n3. **3983 39th Ave, San Francisco, CA**  \n   - **Price:** $1,375,000  \n   - **Size:** 3,700 sqft  \n   - **Type:** Single Family (Spanish Colonial)  \n   - **Neighborhood:** Outer Sunset  \n   - **Highlights:** Features include a gourmet kitchen with a waterfall island, a wrap-around deck, and a sun-drenched primary suite. The home also has a dedicated laundry room and 1-car parking. [MLS: SF279517]\n\n4. **1971 Italy Ave #4B, San Francisco, CA**  \n   - **Price:** $2,225,000  \n   - **Size:** 3,650 sqft  \n   - **Type:** Single Family (Spanish Colonial)  \n   - **Neighborhood:** Excelsior  \n   - **Highlights:** This home features a designer kitchen, an expansive yard, and a spacious primary suite with an ensuite bath. It also includes a 2-car garage and a formal dining room. [MLS: SF427038]\n\n5. **336 Judah St, San Francisco, CA**  \n   - **Price:** $2,700,000  \n   - **Size:** 3,700 sqft  \n   - **Type:** Single Family (Victorian)  \n   - **Neighborhood:** Outer Sunset  \n   - **Highlights:** This Victorian home offers park views, a designer kitchen, and an expansive yard. The primary suite is luminous with a spa bath, and the home includes a dedicated laundry room and 1-car garage. [MLS: SF681837]",
+      "cited_ids": [
+        "SF454140",
+        "SF832203",
+        "SF279517",
+        "SF427038",
+        "SF681837"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 19.51,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q18",
+      "question": "What are the largest homes available in Pacific Heights or Sea Cliff?",
+      "tags": [
+        "sqft",
+        "neighborhood",
+        "luxury"
+      ],
+      "answer": "### Summary\nHere are some of the largest homes currently available in the Pacific Heights neighborhood of San Francisco, CA. These listings offer spacious living areas and are situated in a prestigious neighborhood known for its grand architecture and stunning views.\n\n### Recommended Listings\n\n1. **3365 Vallejo St #1C, San Francisco, CA**  \n   - **Price:** $2,550,000  \n   - **Size:** 4,650 sqft  \n   - **Type:** Multi Family (Victorian)  \n   - **Bedrooms/Bathrooms:** 6BD/6.5BA  \n   - **Highlights:** Fully updated Victorian duplex, perfect for investors or multigenerational living. Features spacious living areas, updated baths, and bay views. [MLS: SF173473]\n\n2. **3103 Broadway, San Francisco, CA**  \n   - **Price:** $2,550,000  \n   - **Size:** 3,750 sqft  \n   - **Type:** Single Family (Modern Farmhouse)  \n   - **Bedrooms/Bathrooms:** 3BD/3.5BA  \n   - **Highlights:** Modern farmhouse with chef's kitchen, wrap-around deck, and golden gate views. [MLS: SF417078]\n\n3. **2322 Jackson St #22C, San Francisco, CA**  \n   - **Price:** $2,600,000  \n   - **Size:** 3,800 sqft  \n   - **Type:** Single Family (Ranch)  \n   - **Bedrooms/Bathrooms:** 2BD/2.5BA  \n   - **Highlights:** Sun-soaked home with updated kitchen, private garden, and bay views. [MLS: SF212389]\n\nUnfortunately, there are no listings available in the Sea Cliff neighborhood at this time. Consider expanding your search to include nearby areas or adjusting your criteria for more options.",
+      "cited_ids": [
+        "SF173473",
+        "SF417078",
+        "SF212389"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 3,
+      "latency_s": 17.11,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q19",
+      "question": "Looking for a 4-bedroom Victorian or Edwardian with a garage and city views under $3 million in Noe Valley or Castro.",
+      "tags": [
+        "bedrooms",
+        "architecture_style",
+        "amenities",
+        "views",
+        "price",
+        "neighborhood"
+      ],
+      "answer": "### Summary\nUnfortunately, I couldn't find any listings that match your specific criteria of a 4-bedroom Victorian or Edwardian with a garage and city views under $3 million in Noe Valley or Castro. However, I can suggest broadening your search to nearby neighborhoods or considering other architectural styles that might meet your needs.\n\n### Suggestions\n- **Expand Neighborhoods**: Consider looking in adjacent neighborhoods such as Glen Park or Twin Peaks, which offer similar amenities and views.\n- **Consider Other Styles**: While Victorian and Edwardian homes are charming, exploring other styles might increase your options.\n- **Adjust Price Range**: Slightly increasing your budget could open up more possibilities in your desired areas.",
+      "cited_ids": [],
+      "n_docs_retrieved": 7,
+      "n_citations": 0,
+      "latency_s": 14.83,
+      "expect_results": true,
+      "got_results": false,
+      "expectation_met": false,
+      "scores": null
+    },
+    {
+      "id": "Q20",
+      "question": "I want a renovated kitchen and spa-like bathroom. What luxury condos are available in SOMA or Mission Bay?",
+      "tags": [
+        "amenities",
+        "property_type",
+        "neighborhood",
+        "luxury"
+      ],
+      "answer": "### Summary\nHere are some luxury condos in the SOMA neighborhood of San Francisco that feature renovated kitchens and spa-like bathrooms. Unfortunately, there are no listings available in Mission Bay based on the current data.\n\n### Recommended Listings\n\n1. **642 3rd St, San Francisco, CA**  \n   - **Price:** $575,000  \n   - **Size:** 1.0BD/2.0BA | 1,400 sqft  \n   - **Type:** Condo (Mid-Century Modern)  \n   - **Highlights:** Features a gourmet kitchen with a waterfall island and wine refrigerator, and a spa-inspired bath with dual vanity. Offers breathtaking city views.  \n   - [MLS: SF456799]\n\n2. **2812 2nd St #10A, San Francisco, CA**  \n   - **Price:** $925,000  \n   - **Size:** 2.0BD/2.0BA | 850 sqft  \n   - **Type:** Condo (Art Deco)  \n   - **Highlights:** Includes a gourmet kitchen with a waterfall island and wine refrigerator, and a spa-inspired bath with dual vanity. Offers city views.  \n   - [MLS: SF275250]\n\n3. **850 4th St, San Francisco, CA**  \n   - **Price:** $1,275,000  \n   - **Size:** 2.0BD/3.0BA | 1,150 sqft  \n   - **Type:** Condo (Mid-Century Modern)  \n   - **Highlights:** Features a fully remodeled kitchen with custom cabinetry and quartz countertops, and a spa-inspired bath with dual vanity. Offers bay views.  \n   - [MLS: SF589199]\n\n4. **2830 King St, San Francisco, CA**  \n   - **Price:** $1,150,000  \n   - **Size:** 2.0BD/2.0BA | 1,000 sqft  \n   - **Type:** Condo (Art Deco)  \n   - **Highlights:** Includes a chef's kitchen with Carrara marble countertops and stainless appliances, and a spa-inspired bath with dual vanity. Offers bay views.  \n   - [MLS: SF864366]\n\n5. **1311 4th St, San Francisco, CA**  \n   - **Price:** $1,225,000  \n   - **Size:** 2.0BD/3.0BA | 1,300 sqft  \n   - **Type:** Condo (Modern)  \n   - **Highlights:** Features a gourmet kitchen with a waterfall island and wine refrigerator, and a spa-inspired bath with dual vanity. Offers bay views.  \n   - [MLS: SF688207]",
+      "cited_ids": [
+        "SF456799",
+        "SF275250",
+        "SF589199",
+        "SF864366",
+        "SF688207"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 16.75,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q21",
+      "question": "Are there any penthouses available in San Francisco?",
+      "tags": [
+        "luxury",
+        "edge_case"
+      ],
+      "answer": "I couldn't find any listings specifically identified as penthouses in the provided context. You might consider broadening your search criteria to include high-rise condos or properties with rooftop terraces, as these can offer similar features to penthouses. Additionally, exploring different neighborhoods or adjusting your budget range might yield more options.",
+      "cited_ids": [],
+      "n_docs_retrieved": 8,
+      "n_citations": 0,
+      "latency_s": 20.65,
+      "expect_results": false,
+      "got_results": false,
+      "expectation_met": true,
+      "scores": null
+    },
+    {
+      "id": "Q22",
+      "question": "I'm looking for a home with a swimming pool and tennis court under $1 million.",
+      "tags": [
+        "amenities",
+        "price",
+        "edge_case"
+      ],
+      "answer": "Unfortunately, I couldn't find any listings that match your criteria of having a swimming pool and tennis court under $1 million in San Francisco, CA. You might consider broadening your search criteria, such as increasing your budget or considering nearby areas outside of San Francisco where such amenities might be more common within your price range.",
+      "cited_ids": [],
+      "n_docs_retrieved": 8,
+      "n_citations": 0,
+      "latency_s": 20.23,
+      "expect_results": false,
+      "got_results": false,
+      "expectation_met": true,
+      "scores": null
+    }
+  ]
+}

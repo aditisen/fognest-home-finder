@@ -1,0 +1,39 @@
+════════════════════════════════════════════════════════════
+  EVAL SUMMARY  —  run 20260826_104627
+════════════════════════════════════════════════════════════
+  Questions run      : 22
+  Errors             : 0
+  Expectation met    : 20/22
+
+  GPT-4o Judge scores (avg across 22 answers):
+    Relevance      : 4.36 / 5
+    Groundedness   : 4.27 / 5
+    Helpfulness    : 4.36 / 5
+    Overall avg    : 4.33 / 5
+
+  Avg latency      : 18.37s
+
+  Per-question scores:
+    ✓ Q01  rel=5 gnd=5 hlp=5 avg=5.0  (23.98s)
+    ✓ Q02  rel=5 gnd=5 hlp=5 avg=5.0  (22.69s)
+    ✓ Q03  rel=5 gnd=5 hlp=5 avg=5.0  (18.32s)
+    ✓ Q04  rel=5 gnd=5 hlp=5 avg=5.0  (17.8s)
+    ✓ Q05  rel=5 gnd=5 hlp=5 avg=5.0  (19.12s)
+    ✓ Q06  rel=3 gnd=5 hlp=3 avg=3.67  (27.14s)
+    ✓ Q07  rel=5 gnd=5 hlp=5 avg=5.0  (21.35s)
+    ✓ Q08  rel=5 gnd=5 hlp=5 avg=5.0  (14.16s)
+    ✓ Q09  rel=5 gnd=5 hlp=5 avg=5.0  (17.43s)
+    ✗ Q10  rel=3 gnd=1 hlp=3 avg=2.33  (13.23s)
+    ✓ Q11  rel=5 gnd=5 hlp=5 avg=5.0  (17.42s)
+    ✓ Q12  rel=5 gnd=5 hlp=5 avg=5.0  (20.19s)
+    ✓ Q13  rel=5 gnd=5 hlp=5 avg=5.0  (16.9s)
+    ✓ Q14  rel=3 gnd=5 hlp=3 avg=3.67  (14.85s)
+    ✓ Q15  rel=5 gnd=5 hlp=5 avg=5.0  (20.33s)
+    ✓ Q16  rel=5 gnd=5 hlp=5 avg=5.0  (18.51s)
+    ✓ Q17  rel=5 gnd=5 hlp=5 avg=5.0  (15.19s)
+    ✓ Q18  rel=3 gnd=5 hlp=3 avg=3.67  (15.69s)
+    ✗ Q19  rel=3 gnd=1 hlp=3 avg=2.33  (13.02s)
+    ✓ Q20  rel=5 gnd=5 hlp=5 avg=5.0  (17.66s)
+    ✓ Q21  rel=3 gnd=1 hlp=3 avg=2.33  (19.16s)
+    ✓ Q22  rel=3 gnd=1 hlp=3 avg=2.33  (20.05s)
+════════════════════════════════════════════════════════════

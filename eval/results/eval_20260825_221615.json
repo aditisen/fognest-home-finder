@@ -1,0 +1,29 @@
+{
+  "run_id": "20260825_221615",
+  "results": [
+    {
+      "id": "Q01",
+      "question": "I'm looking for a 3-bedroom Victorian home in Noe Valley. What's available?",
+      "tags": [
+        "neighborhood",
+        "architecture_style",
+        "bedrooms"
+      ],
+      "answer": "### Summary\nHere are some available 3-bedroom Victorian homes in Noe Valley, San Francisco. Each offers unique features and amenities, perfect for those seeking a blend of historic charm and modern convenience.\n\n### Recommended Listings\n\n1. **3970 Noe St**  \n   - **Price:** $2,050,000  \n   - **Size:** 3,700 sqft  \n   - **Details:** Meticulously restored Victorian with 4 bathrooms, a gourmet kitchen, and a shared roof deck. Features original oak floors and a tandem garage. [MLS: SF281614]\n\n2. **3163 Elizabeth St #23B**  \n   - **Price:** $2,975,000  \n   - **Size:** 2,750 sqft  \n   - **Details:** Naturally lit home with city views, a gourmet kitchen, and a sunny deck. Includes period moldings and hardwood floors. [MLS: SF624282]\n\n3. **1674 Clipper St**  \n   - **Price:** $2,200,000  \n   - **Size:** 2,050 sqft  \n   - **Details:** Victorian townhouse with a private rooftop deck, Carrara marble countertops, and deeded parking. [MLS: SF148632]\n\n4. **2747 Church St**  \n   - **Price:** $1,700,000  \n   - **Size:** 1,700 sqft  \n   - **Details:** Victorian townhouse with a designer kitchen, private rooftop deck, and garden views. [MLS: SF984288]\n\n5. **3223 Sanchez St**  \n   - **Price:** $2,325,000  \n   - **Size:** 2,350 sqft  \n   - **Details:** Sun-drenched townhouse with park views, a designer kitchen, and a 2-car garage. [MLS: SF326774]",
+      "cited_ids": [
+        "SF281614",
+        "SF624282",
+        "SF148632",
+        "SF984288",
+        "SF326774"
+      ],
+      "n_docs_retrieved": 8,
+      "n_citations": 5,
+      "latency_s": 27.12,
+      "expect_results": true,
+      "got_results": true,
+      "expectation_met": true,
+      "scores": null
+    }
+  ]
+}
