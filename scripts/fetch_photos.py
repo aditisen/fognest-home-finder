@@ -22,7 +22,7 @@ from pathlib import Path
 
 import requests
 
-UNSPLASH_ACCESS_KEY = "HsxR8Om9VqYOH1nnnI7a5FHcpXz7WRe0sop8vIaX7n0"
+UNSPLASH_ACCESS_KEY = os.environ.get("UNSPLASH_ACCESS_KEY")
 UNSPLASH_SEARCH_URL = "https://api.unsplash.com/search/photos"
 HEADERS = {"Authorization": f"Client-ID {UNSPLASH_ACCESS_KEY}"}
 
